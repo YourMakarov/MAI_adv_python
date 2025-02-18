@@ -21,7 +21,7 @@
 
    ```bash
    git clone https://github.com/YourMakarov/MAI_adv_python/tree/main
-   cd kudago-event-parser
+   cd MAI_adv_python
 
 2. **Установите зависимости:**
 
