@@ -1,0 +1,7 @@
+g4f[all]
+requests
+transformers
+sentencepiece
+pinecone[grpc]
+telebot
+torch
