@@ -20,7 +20,7 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/yourusername/kudago-event-parser.git
+   git clone https://github.com/YourMakarov/MAI_adv_python/tree/main
    cd kudago-event-parser
 
 2. **Установите зависимости:**
